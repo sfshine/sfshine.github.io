@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://my.oschina.net/sfshine/"/>
-  <updated>2015-10-15T03:02:46.078Z</updated>
+  <updated>2015-10-15T03:12:28.782Z</updated>
   <id>http://my.oschina.net/sfshine/</id>
   
   <author>
@@ -19,13 +19,19 @@
     <link href="http://my.oschina.net/sfshine/2015/10/15/%E6%88%91%E7%B4%AF%E4%BA%86/"/>
     <id>http://my.oschina.net/sfshine/2015/10/15/我累了/</id>
     <published>2015-10-15T03:01:04.000Z</published>
-    <updated>2015-10-15T03:02:46.078Z</updated>
-    <content type="html"><![CDATA[<p>希望我变得更厉害, 让你佩服我, 爱上我, 有些时候我做的不对, 真的很抱歉. 我真的想和你走下去. 亲爱的, 为我做一点改变好吗??<br>我要努力学习努力工作啊亲爱的. 真的把你当我最亲爱的人啊.</p>
+    <updated>2015-10-15T03:12:28.782Z</updated>
+    <content type="html"><![CDATA[<p>希望我变得更厉害, 让你佩服我, 爱上我, 有些时候我做的不对, 真的很抱歉. 我真的想和你走下去. 亲爱的, 为我做一点改变好吗??<br>我要努力学习努力工作啊亲爱的. 真的把你当我最亲爱的人啊.<br>我要变得专业!!</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>希望我变得更厉害, 让你佩服我, 爱上我, 有些时候我做的不对, 真的很抱歉. 我真的想和你走下去. 亲爱的, 为我做一点改变好吗??<br>我要努力学习努力工作啊亲爱的. 真的把你当我最亲爱的人啊.</p>
+    <![CDATA[<p>希望我变得更厉害, 让你佩服我, 爱上我, 有些时候我做的不对, 真的很抱歉. 我真的想和你走下去. 亲爱的, 为我做一点改变好吗??<br>我要努力学习努力工作啊亲爱的. 真的把你当我最亲爱的人啊.<br>我要变得专业!!</p>
 ]]>
     </summary>
+    
+      <category term="爱情" scheme="http://my.oschina.net/sfshine/tags/%E7%88%B1%E6%83%85/"/>
+    
+      <category term="生活" scheme="http://my.oschina.net/sfshine/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="生活" scheme="http://my.oschina.net/sfshine/categories/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -34,7 +40,7 @@
     <link href="http://my.oschina.net/sfshine/2015/10/15/%E6%80%BB%E7%BB%932014%E5%B1%95%E6%9C%9B2015/"/>
     <id>http://my.oschina.net/sfshine/2015/10/15/总结2014展望2015/</id>
     <published>2015-10-15T02:52:53.000Z</published>
-    <updated>2015-10-15T02:53:16.734Z</updated>
+    <updated>2015-10-15T03:12:47.568Z</updated>
     <content type="html"><![CDATA[<h3 id="总结2014展望2015">总结2014展望2015</h3><h3 id="一-_2014_总结">一. 2014 总结</h3><p>2014 总体 </p>
 <p><strong>关键词：收获，积累，学习，工作，坚持</strong></p>
 <p>春天的时候从广州来到这个阔别了一年的地方，还是喜欢这个漂亮，干净的城市，这里加班少一点，薪水也高了一些（也算是跳了一下），每天都可以出去看看大海，并且很少给我一种背井离乡的感觉。最重要的是来到的这个公司老大比较有眼界，做的项目也是比较的前沿，公司运作很不错，公司成员都非常professional，这样的公司不用说青岛，全国也不是很好找。自己对未来还是比较有信心的。</p>
@@ -114,6 +120,10 @@ C++Primer
 <p><strong>关键词：收获，积累，学习，工作，坚持</strong></p>
 <p>春天的时]]>
     </summary>
+    
+      <category term="人生规划" scheme="http://my.oschina.net/sfshine/tags/%E4%BA%BA%E7%94%9F%E8%A7%84%E5%88%92/"/>
+    
+      <category term="生活" scheme="http://my.oschina.net/sfshine/categories/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
